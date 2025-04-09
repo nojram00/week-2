@@ -36,3 +36,6 @@ Route::controller(ShopController::class)->group(function () {
     Route::get('/cart', 'cart')->name('cart');
     Route::get('/checkout/{id}', 'checkout')->name('checkout');
 });
+
+
+require __DIR__.'/api.php';
