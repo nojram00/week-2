@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "Cat Food",
+        "price" : 20.99,
+        "available" : true,
+        "description" : "A nutritious cat food.",
+        "image" : "items/catfood-image.jpg",
+        "category" : "Cat Food"
+    },
+    {
+        "name": "Goat Milk",
+        "price": 12.50,
+        "available": true,
+        "description": "A nutritious goat milk.",
+        "image": "items/goatmilk-image.png",
+        "category": "Cat Food"
+    },
+    {
+        "name": "Tuna Fish 10g",
+        "price": 30.99,
+        "available": true,
+        "description": "A delicious tuna fish.",
+        "image": "items/tunacan-image.png",
+        "category": "Cat Food"
+    },
+    {
+        "name": "Pedigree Dog Food",
+        "price": 19.99,
+        "available": true,
+        "description": "A nutritious dog food.",
+        "image": "items/pedigree-dogfood-image.webp",
+        "category": "Dog Food"
+    },
+    {
+        "name" : "Cat Bed",
+        "price" : 49.99,
+        "available" : true,
+        "description" : "A comfortable bed for your cat.",
+        "image" : "items/catbed.jpg",
+        "category" : "Cat Accessories"
+    }
+]
